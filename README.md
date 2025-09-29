@@ -1,3 +1,4 @@
+![logo](https://github.com/Amit-akm-22/Amit-akm-22/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Amit Manmode</h1>
 <h3 align="center">“A passionate developer from India, currently learning and improving my skills.”</h3>
 
