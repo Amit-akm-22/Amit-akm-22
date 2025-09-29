@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit Manmode</h1>
 <h3 align="center">“A passionate developer from India, currently learning and improving my skills.”</h3>
 
+<img align="right" alt="coding" width="400" src="https://png.pngtree.com/thumb_back/fh260/background/20250121/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16938203.jpg">
+
 - 👨‍💻 All of my projects are available at [https://amit-akm-22.github.io/Portfolio-Page/](https://amit-akm-22.github.io/Portfolio-Page/)
 
 - 📫 How to reach me **amit.akm.18@gmail.com**
@@ -8,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amit manmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit manmode" height="30" width="40" /></a>
+<a href="https://instagram.com/_amit__21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amit__21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amit2156akm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit2156akm" height="30" width="40" /></a>
 </p>
 
