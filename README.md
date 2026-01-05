@@ -18,9 +18,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Currently Learning:** Advanced React Patterns, System Design, and Cloud Technologies
+- 🎓 **Currently Learning:** Machine Learning And Data Structure
 - 💼 **Working On:** Full-stack web applications using MERN stack
-- 🌱 **Exploring:** Microservices Architecture, Docker, and DevOps practices
+- 🌱 **Exploring:** React.js, Next.js, Google Auth
 - 👯 **Looking to Collaborate:** On open-source projects and innovative web applications
 - 💬 **Ask Me About:** JavaScript, React, Node.js, MongoDB, and Web Development
 - 📫 **Reach Me:** [amit.akm.18@gmail.com](mailto:amit.akm.18@gmail.com)
