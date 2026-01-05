@@ -214,7 +214,7 @@
 
 <img src="Screenshot 2025-08-18 160219.png" width="450" alt="Wonderlust Preview" />
 
-[![Wonderlust](https://github-readme-stats.vercel.app/api/pin/?username=Amit-akm-22&repo=Wonderlust&theme=tokyonight&hide_border=true)](https://github.com/Amit-akm-22/Wonderlust)
+[![Wonderlust](https://github-readme-stats.vercel.app/api/pin/?username=Amit-akm-22&repo=Wonderlust&theme=tokyonight&hide_border=true)](https://github.com/Amit-akm-22/WonderLust-akm-18)
 
 </div>
 
