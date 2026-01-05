@@ -64,9 +64,7 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  </a>
+ 
 </p>
 
 <div align="center">
@@ -290,11 +288,11 @@ const amit = {
 
 ---
 
-### 🎯 2024 Goals
+### 🎯 2026 Goals
 
 - ✅ Master MERN Stack Development
 - 🔄 Contribute to 5+ Open Source Projects
-- 📚 Learn System Design and Microservices
+- 📚 Learn Machine Learning And Data Structure
 - 🚀 Build and Deploy 10+ Full-Stack Projects
 - 💼 Land a Software Developer Role
 
