@@ -158,12 +158,11 @@
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+  
 </div>
 
 <br/>
