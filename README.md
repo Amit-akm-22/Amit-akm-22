@@ -39,12 +39,12 @@ const amit = {
 
   expertise: {
     languages:   ["C++", "JavaScript", "Python", "HTML", "CSS"],
-    frontend:    ["React.js", "Tailwind CSS", "Bootstrap", "EJS"],
+    frontend:    ["React.js", "Tailwind CSS", "Bootstrap"],
     backend:     ["Node.js", "Express.js", "Socket.IO", "JWT", "Nodemailer"],
     databases:   ["MongoDB", "MySQL", "SQL"],
     tools:       ["Git", "GitHub", "Postman", "Cloudinary", "Axios"],
     coreCS:      ["DSA", "OOP", "DBMS", "OS", "Computer Networks"],
-    exploring:   ["TypeScript", "Next.js", "Docker", "AWS", "Redis", "ML"],
+    exploring:   ["TypeScript", "Next.js", "Docker", "Redis", "RAG"],
   },
 
   achievements: {
@@ -154,7 +154,7 @@ const amit = {
 - 🗺️ Location-based booking platform with **interactive maps & geo-location**
 - ⭐ Review & rating system with user verification for authentic feedback
 - 🔐 Secure authentication with session management and full CRUD operations
-- 🏆 **Winner — HackSetu 1.0**, National Level 24-Hr Hackathon, Amity University Gwalior
+  
 
 </td></tr>
 </table>
