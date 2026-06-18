@@ -200,13 +200,13 @@ const amit = {
 
 | 🏆 Achievement | 📅 Year | 🔗 |
 |---|---|---|
-| 🥇 **Winner** — HackSetu 1.0, 24-Hr National Hackathon, Amity University Gwalior | 2024 | [Certificate](#) |
-| 🥈 **1st Runner-Up** — TIC 2k26, 36-Hr National Hackathon, TIT Bhopal | 2026 | [Certificate](#) |
-| 🥉 **2nd Runner-Up** — AI Powered DevSprint Hackathon, MITS Gwalior | 2026 | [Certificate](#) |
+| 🥇 **Winner** — HackSetu 1.0, 24-Hr National Hackathon, Amity University Gwalior | 2024 | [Certificate](https://drive.google.com/file/d/1thHjjRA6EuPL2KkGKVvdn5BqcxwPlqbb/view?pli=1) |
+| 🥈 **1st Runner-Up** — TIC 2k26, 36-Hr National Hackathon, TIT Bhopal | 2026 | [Certificate](https://drive.google.com/file/d/15L5ztzni1wDveefwzthyKNMCbuQWKdSO/view) |
+| 🥉 **2nd Runner-Up** — AI Powered DevSprint Hackathon, MITS Gwalior | 2026 | [Certificate](https://drive.google.com/file/d/1RLhLTQPHCag1MUXOeoAnRrz9gysZXeOO/view) |
 | 🧠 **Daily Coding Challenge Winner** — LeetCode (Jan & Feb 2025) | 2025 | — |
 | 💡 **190+ DSA Problems Solved** — LeetCode | Ongoing | [Profile](https://leetcode.com/amit2156akm) |
 | 🌍 **Open Source Contributor** — GirlScript Summer of Code (GSSoC) | 2026 | — |
-| 📜 **Front End Web Developer Cert** — Infosys Springboard | 2024 | [Certificate](#) |
+
 
 </div>
 
@@ -236,7 +236,7 @@ const amit = {
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-190%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amit2156akm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7c6af7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amit-akm-22.github.io/Portfolio-Page/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7c6af7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amitmanmode.me)
 
 </div>
 
