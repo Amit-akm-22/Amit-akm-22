@@ -115,24 +115,14 @@ const amit = {
 
 <div align="center">
 
-<a href="https://github.com/Amit-akm-22/MITS-NbN-Desk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-akm-22&repo=MITS-NbN-Desk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6af7&icon_color=4fc3f7&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/Amit-akm-22/WonderLust-akm-18">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-akm-22&repo=WonderLust-akm-18&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6af7&icon_color=4fc3f7&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/Amit-akm-22/LinkedIn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-akm-22&repo=LinkedIn&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6af7&icon_color=4fc3f7&text_color=c9d1d9" />
-</a>
+
 
 </div>
 
 <br/>
 
 ### 🌐 MITS NbN Desk — Paperless Student Request Portal
-> **React.js · Node.js · Express.js · MongoDB · Socket.IO · Tailwind CSS** &nbsp; | &nbsp; [🔗 Live Link](#)
+> **React.js · Node.js · Express.js · MongoDB · Socket.IO · Tailwind CSS** &nbsp; | &nbsp; [🔗 Live Link](https://nbn.mitsgwalior.in/)
 
 <table>
 <tr><td>
@@ -146,7 +136,7 @@ const amit = {
 </table>
 
 ### 🗺️ WonderLust — Travel Accommodation Platform
-> **Node.js · Express.js · MongoDB · EJS · Tailwind CSS** &nbsp; | &nbsp; [🔗 Live Link](#)
+> **Node.js · Express.js · MongoDB · EJS · Tailwind CSS** &nbsp; | &nbsp; [🔗 Live Link](https://wonder-lust-18.vercel.app/)
 
 <table>
 <tr><td>
