@@ -255,7 +255,7 @@ const amit = {
 <a href="https://instagram.com/_amit__21">
   <img src="https://img.shields.io/badge/Instagram-_amit__21-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://amit-akm-22.github.io/Portfolio-Page/">
+<a href="https://amitmanmode.me/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7c6af7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="tel:+916264677098">
