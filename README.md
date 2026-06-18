@@ -121,6 +121,21 @@ const amit = {
 
 <br/>
 
+
+### 📄 AI-Powered PDF Question Answering System using RAG
+> **React.js · FastAPI · Python · LangChain · FAISS · Google Gemini API** &nbsp; | &nbsp; [🔗 Live Link](https://chatpdf-rag-tau.vercel.app/)
+
+<table>
+<tr><td>
+
+- 📚 Upload PDF documents and ask natural-language questions from their content
+- 🧠 Uses **RAG** to retrieve relevant chunks and generate accurate context-aware answers
+- ⚡ FastAPI backend with vector search using **FAISS** for efficient document retrieval
+- 💬 Clean React chat interface for interactive PDF-based question answering
+
+</td></tr>
+</table>
+
 ### 🌐 MITS NbN Desk — Paperless Student Request Portal
 > **React.js · Node.js · Express.js · MongoDB · Socket.IO · Tailwind CSS** &nbsp; | &nbsp; [🔗 Live Link](https://nbn.mitsgwalior.in/)
 
